@@ -4,19 +4,26 @@
 
 # Скриншоты приложения
 
-1. авторизация в приложении: ![image](https://github.com/user-attachments/assets/b5b085a5-2c81-4cd4-b398-cca95ec7b7de)
+1. авторизация в приложении: 
+![image](https://github.com/user-attachments/assets/b5b085a5-2c81-4cd4-b398-cca95ec7b7de)
 
-2. регистрация в приложении: ![image](https://github.com/user-attachments/assets/3817299c-4566-444c-ae5f-1432a4191aa8)
+2. регистрация в приложении: 
+![image](https://github.com/user-attachments/assets/3817299c-4566-444c-ae5f-1432a4191aa8)
 
-3. главная форма приложения/просмотр всех уведомлений: ![image](https://github.com/user-attachments/assets/77f443a2-8bb3-4818-9335-be2f5085c4e0)
+3. главная форма приложения/просмотр всех уведомлений: 
+![image](https://github.com/user-attachments/assets/77f443a2-8bb3-4818-9335-be2f5085c4e0)
 
-4. календарь, в котором выделены дни(на эти дни стоят напоминания): ![image](https://github.com/user-attachments/assets/f8bb45be-c578-40ba-ab1c-29eb40476e56)
+4. календарь, в котором выделены дни(на эти дни стоят напоминания): 
+![image](https://github.com/user-attachments/assets/f8bb45be-c578-40ba-ab1c-29eb40476e56)
 
-5. добавление нового уведомления: ![image](https://github.com/user-attachments/assets/c51d83a5-5c61-4083-ad77-7c5e0f59704d)
+5. добавление нового уведомления: 
+![image](https://github.com/user-attachments/assets/c51d83a5-5c61-4083-ad77-7c5e0f59704d)
 
-6. просмотр текста уведомления: ![image](https://github.com/user-attachments/assets/a146ab0e-7a40-4075-ab9f-b28723dc7266)
+6. просмотр текста уведомления: 
+![image](https://github.com/user-attachments/assets/a146ab0e-7a40-4075-ab9f-b28723dc7266)
 
-7. редактирование уведомления: ![image](https://github.com/user-attachments/assets/256a07ea-2b5b-4547-bd83-c48834b6ccd6)
+7. редактирование уведомления: 
+![image](https://github.com/user-attachments/assets/256a07ea-2b5b-4547-bd83-c48834b6ccd6)
 
 # Основные функции приложения
 
