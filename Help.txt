@@ -1,0 +1,2 @@
+Add-Migration InitialCreate -Context NotificationsDBContext -StartupProject NotificationsSystem -Project EntityGateWay
+Update-Database InitialCreate -Context NotificationsDBContext -StartupProject NotificationsSystem -Project EntityGateWay
